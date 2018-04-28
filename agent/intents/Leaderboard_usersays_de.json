@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3c490a2b-f9c5-49fa-b9bd-75ce83d28e78",
+    "data": [
+      {
+        "text": "Wer führt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916929
+  },
+  {
+    "id": "2829ed70-1787-4e0e-8bea-88a4189bf1be",
+    "data": [
+      {
+        "text": "Übersicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916929
+  },
+  {
+    "id": "24cc7615-b379-40a7-9af9-934692ba4c68",
+    "data": [
+      {
+        "text": "Charts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916929
+  },
+  {
+    "id": "f6b6e1a4-1151-4908-9b9b-6d740c82b02c",
+    "data": [
+      {
+        "text": "Leaderboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916929
+  },
+  {
+    "id": "d3a36abb-2ead-4066-bd24-45f24d87842c",
+    "data": [
+      {
+        "text": "Bestenliste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916929
+  }
+]

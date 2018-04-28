@@ -1,0 +1,34 @@
+{
+  "description": "",
+  "language": "de",
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "newagent-6d030",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Kaliningrad",
+  "webhook": {
+    "url": "https://us-central1-newagent-6d030.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2"
+}

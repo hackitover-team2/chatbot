@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cdac8d07-f53c-4162-bd1e-5b2ddca97184",
+    "data": [
+      {
+        "text": "Ich möchte mich registrieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916761
+  },
+  {
+    "id": "2dc00082-3d8e-443c-8657-1ef6792a40e9",
+    "data": [
+      {
+        "text": "Wie geht es dir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916761
+  },
+  {
+    "id": "539b0652-d7d5-47b0-9ef4-ae675051f0e7",
+    "data": [
+      {
+        "text": "Hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916761
+  },
+  {
+    "id": "783e1753-465e-40e1-9a62-02e5f175544b",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916761
+  },
+  {
+    "id": "6fa22229-744b-4926-84a8-074c12d1d613",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524916761
+  }
+]

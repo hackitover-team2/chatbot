@@ -1,0 +1,40 @@
+{
+  "id": "6fef822f-8071-4510-abce-e3900eece69f",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ich verstehe deine Frage leider nicht.",
+            "Entschuldige bitte, ich habe deine Frage nicht verstanden.",
+            "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.",
+            "Leider kann ich nicht verstehen, was du von mir möchtest.",
+            "Kannst du das noch mal anders formulieren?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Du kannst dich registrieren, das Leaderboard ansehen, oder deine eigenen Fahrten einsehen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524916818,
+  "fallbackIntent": true,
+  "events": []
+}

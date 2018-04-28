@@ -1,0 +1,22 @@
+{
+  "id": "1a6a5032-35e2-4c10-be90-5c061c98bc15",
+  "name": "Challenges",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524920555,
+  "fallbackIntent": false,
+  "events": []
+}

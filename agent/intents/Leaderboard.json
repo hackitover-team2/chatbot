@@ -1,0 +1,33 @@
+{
+  "id": "08933a78-bd45-4780-ab32-b72c1cc74765",
+  "name": "Leaderboard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Okay.",
+            "You got it.",
+            "Kein Problem.",
+            "Alles klar."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524917995,
+  "fallbackIntent": false,
+  "events": []
+}
